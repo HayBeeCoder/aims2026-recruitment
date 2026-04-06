@@ -1,3 +1,9 @@
-# AIMS 2026
+"""Main orchestration script for the AIMS 2026 workflow."""
 
-This Python script is designed to run all tasks in the AIMS 2026 final project.
+
+def main() -> None:
+    print("AIMS 2026 pipeline orchestrator")
+
+
+if __name__ == "__main__":
+    main()
